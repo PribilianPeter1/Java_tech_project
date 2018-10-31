@@ -1,0 +1,12 @@
+Azon,Cím,Évszám,Rendezõ,Hossz
+32,Rémálom az Elm utcában,1984,Wes Craven,91
+33,Jurassic Park,1993,Steven Spielberg,127
+34,Hatodik érzék,1999,M. Night Shyamalan,108
+35,Bosszuállók,2012,Joss Whedon,142
+36,Szellemírtók,1984,Ivan Reitman,105
+37,A galaxis örzõi,2014,James Gunn,122
+39,Fûrész,2004,James Wan,103
+40,Szárnyas Fejvadász,1982,Ridley Scott,114
+41,Deadpool,2016,Tim Miller,106
+42,Csillagközi invázió,1997,Paul Verhoeven,129
+43,Fekete Párduc,2018,Ryan Coogler,134
